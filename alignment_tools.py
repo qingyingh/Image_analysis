@@ -6,12 +6,12 @@
         fiducial_detection2():  detect feature points from an image
         query_dark_location():  find dark feature points
         query_light_location(): find white feature points
-        fiducial_points():
+        fiducial_points():      find feature points
         angle_estimation():     estimage angles
         center_estimation():    estimage center location
         distance_estimation():  estimage distnace ebtween feature points
         process_image():        use related methods to estimate
-        analysis_result():
+        analysis_result():      find the maximum relative error and its index
 """
 
 
