@@ -1,5 +1,5 @@
 A Python module for alignment image analysis.
 
-It reads an image and compares the extracted feartures with tolerance.
+It reads an image and compares the extracted features with tolerance.
 
-Output is the maxumum relative error and its corresponding parameter index.
+Output is the maximum relative error and its corresponding parameter index.
