@@ -23,8 +23,8 @@ import numpy as np
 import pandas as pd
 import cv2
 
-RADIUS_FACTOR = 4               # determine radius threshold
-AREA_FACTOR = 80                # determine area threshold
+RADIUS_FACTOR = 4               # factor to determine radius threshold
+AREA_FACTOR = 80                # factor to determine area threshold
 MIN_GRAYSCALE_THRESHOLD = 20    # min threshold
 MAX_GRAYSCALE_THRESHOLD = 250   # max threshold
 MIN_CIRCULARITY1 = 0.8          # circularity threshold for detector 1
